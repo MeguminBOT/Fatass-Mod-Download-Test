@@ -1,0 +1,7 @@
+{
+	"name": "Fat-Ass Mod Pack Test",
+	"description": "Testing Download Server",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}
